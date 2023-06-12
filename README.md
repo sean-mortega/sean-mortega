@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sean-mortega
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Vue and React
 - 💞️ I’m looking to collaborate on a lot of projects :)
 - 📫 How to reach me -email address
 
